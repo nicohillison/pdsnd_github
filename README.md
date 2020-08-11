@@ -1,10 +1,10 @@
-### Date created
-Include the date you created this project and README file.
+### Date: 
+8/10/2020
 
-### Project Title
-Replace the Project Title
+### Project Title:
+Git Terminal
 
-### Description
+### Description:
 Describe what your project is about and what it does
 
 ### Files used
