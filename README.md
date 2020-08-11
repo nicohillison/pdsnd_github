@@ -11,8 +11,12 @@ In this project I have to set up my repository, improve my documentation, refact
 and merge branches.
 
 ### Files used:
+for this project I am using a document given by Udacity and my bikeshare.py file from last 
+project. I am also using the data given to my from three different cities that was also given to me 
+by Udacity in last project about python.
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.git-tower.com/learn/media/pages/cheat-sheets/git/-1223884809-1596638916/git-cheat-sheet-large01.png
+
 
