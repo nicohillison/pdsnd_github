@@ -7,7 +7,12 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-month_to_num_dict = {'january': 1, 'febuary': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6}
+month_to_num_dict = {'january': 1,
+					 'febuary': 2,
+					 'march': 3,
+					 'april': 4, 
+					 'may': 5, 
+					 'june': 6}
 num_to_month_dict = {1 : 'january', 2: 'febuary', 3: 'march', 4: 'april', 5: 'may', 6: 'june'}
 months = ('january', 'febuary', 'march', 'april', 'may', 'june', 'all')
 days = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', "all")
