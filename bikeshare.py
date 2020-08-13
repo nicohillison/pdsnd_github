@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+#this project takes in 3 cities and reveals travel information about them.
+
 #creating data strucutures to store relevant information
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
